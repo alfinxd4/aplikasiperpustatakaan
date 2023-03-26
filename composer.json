@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpexcel": "^1.8",
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
